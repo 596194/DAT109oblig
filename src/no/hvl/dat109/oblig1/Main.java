@@ -1,3 +1,5 @@
+package no.hvl.dat109.oblig1;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -6,6 +8,7 @@ public class Main {
 
         }
 
+        //setting the number of players and
         Player.addPlayers();
 
 
