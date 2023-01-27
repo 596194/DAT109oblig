@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e104eda-99bf-4325-a19c-eef9199da0b7" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/LadderGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat109/oblig1/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -56,7 +59,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674559852702</updated>
-      <workItem from="1674559852828" duration="8072000" />
+      <workItem from="1674559852828" duration="10516000" />
+      <workItem from="1674639474895" duration="2846000" />
+      <workItem from="1674724827508" duration="12942000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1674567025166</created>
@@ -65,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674567025166</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1674568802417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674568802417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
